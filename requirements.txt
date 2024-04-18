@@ -1,0 +1,12 @@
+dj-database-url==0.3.0
+dj-static==0.0.6
+Django==1.8.4
+django-bootstrap3==6.2.2
+gunicorn==19.3.0
+importlib-metadata==4.8.3
+packaging==21.3
+pyparsing==3.0.7
+static3==0.7.0
+typing-extensions==4.1.1
+zipp==3.6.0
+psycopg2>=2.6.1
